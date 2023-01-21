@@ -1,5 +1,5 @@
 rversion: STSv1
-mode: enforce
+mode: testing
 mx: mailsec.protonmail.ch.
 mx: mail.protonmail.ch.
 max_age: 604800

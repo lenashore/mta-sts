@@ -1,4 +1,4 @@
-rversion: STSv1
+version: STSv1
 mode: testing
 mx: mailsec.protonmail.ch.
 mx: mail.protonmail.ch.
